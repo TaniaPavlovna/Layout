@@ -1,2 +1,2 @@
 # Layout
-Page layout.
+Page layout "Easy code".
