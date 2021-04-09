@@ -1,2 +1,2 @@
-# Layout
-Page layout "Easy code".
+# html / css coding
+Page development "Easy code".
